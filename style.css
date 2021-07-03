@@ -67,7 +67,7 @@ span.round {
     color: #333;
     padding-left: 21px;
     font-size: 16px;
-    margin-10px FONT-VARIANT: JIS04;
+    /* margin-10px FONT-VARIANT: JIS04; */
 }
 a.freeTry {
     background: yellow;
